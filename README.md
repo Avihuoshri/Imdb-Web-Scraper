@@ -24,5 +24,5 @@ web scraping for movies in imdb website
   
 ### Third step: 
 #### Google chrom browser will open and thw web scraping process start please wait few minutes until the process finish and operate movies.txt file
-  <img src="gif instruction/Third step.gif" width="500" height="500" > <br><br>
+  <img src="gif instruction/Third step.gif" width="900" height="500" > <br><br>
 
