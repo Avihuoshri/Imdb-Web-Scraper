@@ -67,7 +67,7 @@ def makeDetails(search_input):
             details = details[:-1]
 
             full_details = build_details(movie_title, details, directors, stars )
-            print(full_details)
+            print(full_details + "\n"*2)
             file_string += full_details + "\n"
     print(file_string)
 
@@ -114,7 +114,7 @@ entry.grid(rowspan=2,row = 1,columnspan= 2, column = 0)
 
 def search_btn_clicked():
     makeDetails(entry.get())
-    browse_text.set("Loading...")
+    browse_text.set("Finished")
 
 browse_text = tk.StringVar()
 browse_btn = tk.Button(root,textvariable = browse_text,command=lambda:search_btn_clicked(),font=("Raleway",12,"bold"), bg="#20bebe", fg="white", height=2, width="15")
