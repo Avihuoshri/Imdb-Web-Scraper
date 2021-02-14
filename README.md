@@ -1,12 +1,12 @@
 # 🖥️ Imdb-Web-Scraper 🖥️
 web scraping for movies in imdb website
 
-### Please install the folowing:
-### Download chromdriver from https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/
-### pip install pillow
-### pip install selenium
-### pip install Pillow
-### pip install requests
+##### Please install the folowing:
+##### Download chromdriver from https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/
+##### pip install pillow
+##### pip install selenium
+##### pip install Pillow
+##### pip install requests
 
 
 
