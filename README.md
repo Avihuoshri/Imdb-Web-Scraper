@@ -6,5 +6,5 @@ web scraping for movies in imdb website
   <img src="gif instruction/First step.gif" width="600" height="350" >
   
 #### Seconed step: write in the search box the movie that you want to search
-  <img src="gif instruction/Second step.gif" width="600" height="350" >
+  <img src="gif instruction/Second step.gif" width="350" height="600" >
 
