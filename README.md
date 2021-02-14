@@ -25,4 +25,10 @@ web scraping for movies in imdb website
 ### 🌟Third step: 
 #### Google chrom browser will open and thw web scraping process start please wait few minutes until the process finish and operate movies.txt file
   <img src="gif instruction/Third step.gif" width="900" height="500" > <br><br>
+  
+### 🌟Fourth step: 
+#### When the program will finish go to the Scraper.py folder and enter movies.txt file that has been operated with all the movies detailes
+  <img src="gif instruction/Fourth step.gif" width="900" height="500" > <br><br>
+
+
 
