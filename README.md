@@ -17,6 +17,8 @@ web scraping for movies in imdb website
   
   
   
-#### Seconed step: write in the search box the movie that you want to search
+#### Seconed step: write in the search box the movie that you want to search and click the search button
   <img src="gif instruction/Second step.gif" width="350" height="600" > <br><br>
+  
+#### Third step: google chrom browser will open and thw web scraping process start please wait few minutes until the process finish and operate movies.txt file
 
